@@ -1,2 +1,2 @@
-# simles-kanban
-simles-kanban
+# simples-kanban
+simples-kanban
